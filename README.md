@@ -40,5 +40,8 @@ From the Firebase console send a notification, you can either choose everyone wh
 ![Alt text](https://luisrodriguez.ws/github/5.png "Send Notification")
   
 ### Obligatory Pics
-![Alt text](https://luisrodriguez.ws/github/r1.jpg "Notifications Working")
-![Alt text](https://luisrodriguez.ws/github/r2.jpg "Payload")
+iOS Working             |  iOS Payload | Android Working
+:-------------------------:|:-------------------------:|:-------------------------:
+| 
+![Alt text](https://luisrodriguez.ws/github/r1.jpg "Notifications Working")  | ![Alt text](https://luisrodriguez.ws/github/r2.jpg "Payload")  | ![Alt text](https://luisrodriguez.ws/github/r3.jpg "android")  |
+
