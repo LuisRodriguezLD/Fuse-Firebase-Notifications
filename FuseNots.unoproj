@@ -1,0 +1,24 @@
+{
+	"RootNamespace": "",
+    "QIdentifier": "your.package.name",
+
+	"Packages": [
+		"Fuse",
+		"FuseJS",
+		"Fuse.PushNotifications"
+	],
+
+	"Android": {
+		"Package": "$(QIdentifier)",
+		"GooglePlay": {
+			"SenderID": "YOURSENDERID"
+		}
+	},
+	"iOS": {
+		"BundleIdentifier": "$(QIdentifier)"
+	},
+
+	"Includes": [
+		"*"
+	]
+}

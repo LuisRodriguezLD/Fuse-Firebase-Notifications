@@ -1,0 +1,8 @@
+<App>
+	<JavaScript File="Notifications.js" />
+	<ClientPanel>
+		<StackPanel Padding="30">
+			<Text Value="{notificationPayload}" TextWrapping="Wrap" />
+		</StackPanel>
+	</ClientPanel>
+</App>
