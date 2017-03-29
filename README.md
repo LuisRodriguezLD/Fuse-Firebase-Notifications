@@ -4,6 +4,8 @@ For Android is pretty straight forward but the issue comes in iOS. The user regi
 
 https://gist.github.com/LuisRodriguezLD/0257300f08eae90e97d81682148c8b22
 
+(Shout out to @jesusmartinoza for the code)
+
 
 
 
